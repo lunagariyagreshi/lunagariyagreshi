@@ -17,7 +17,9 @@
 **Teaching Assistant | College**
 
 👨‍🏫 Assisted students in understanding programming concepts and solving coding problems.
+
 💻 Guided peers in web development, debugging, and project development.
+
 📚 Helped with JavaScript, React.js, and building interactive web applications.
 
 ---
