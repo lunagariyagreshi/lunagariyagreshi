@@ -1,9 +1,8 @@
 # Hi 👋, I'm Greshi Lunagariya
 
 ### 💻 Full-Stack Developer | .NET & ML Learner
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;ASP.NET+Core+%7C+React+Developer;Java+%7C+DSA+Enthusiast;Machine+Learning+Learner" />
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000b7b08208bcdb98911831d581&ts=496308&p=fs&cid=1&sig=3372edb5a17e2cf306fc2eaf9e196f7f938efc62ab229a5e4978ed5005790325&v=0" alt="Developer Workspace" width="100%" />
 </p>
 ---
 
