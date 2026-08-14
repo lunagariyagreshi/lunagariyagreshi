@@ -2,7 +2,7 @@
 
 ### 💻 Full-Stack Developer | .NET & ML Learner
 <p align="center">
-  <img src=""C:\Users\Greshi\Pictures\94c1b8a5-4567-4e31-82e5-3179e52d0958.png"" />
+  <img src="./assets/developer-banner.png" alt="Developer Workspace" width="100%" />
 </p>
 
 
