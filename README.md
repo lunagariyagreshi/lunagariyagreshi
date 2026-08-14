@@ -3,9 +3,8 @@
 ### 💻 Full-Stack Developer | .NET & ML Learner
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lunagariyagreshi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;ASP.NET+Core+%7C+React+Developer;Java+%7C+DSA+Enthusiast;Machine+Learning+Learner" />
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -116,7 +115,7 @@ A healthcare-oriented application for managing outpatient department operations.
 
 ---
 
-## ## 🧠 DSA & Problem Solving
+## 🧠 DSA & Problem Solving
 
 Preparing for **technical interviews and coding assessments** by strengthening problem-solving skills and understanding core DSA concepts.
 
@@ -152,18 +151,12 @@ As a Teaching Assistant, I help students understand programming and web developm
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lunagariyagreshi&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Greshi's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunagariyagreshi&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Greshi's Top Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lunagariyagreshi&theme=tokyo-night&hide_border=true"
+    alt="Greshi's GitHub Activity Graph"
   />
 </p>
 
@@ -202,7 +195,7 @@ As a Teaching Assistant, I help students understand programming and web developm
       alt="GitHub"
     />
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/greshi-lunagariya-27416033a/)">
+  <a href="https://www.linkedin.com/in/greshi-lunagariya-27416033a/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
