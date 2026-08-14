@@ -151,17 +151,6 @@ As a Teaching Assistant, I help students understand programming and web developm
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lunagariyagreshi&theme=tokyo-night&hide_border=true"
-    alt="Greshi's GitHub Activity Graph"
-  />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
