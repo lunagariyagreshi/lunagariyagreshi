@@ -2,7 +2,7 @@
 
 ### 💻 Full-Stack Developer | .NET & ML Learner
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000b7b08208bcdb98911831d581&ts=496308&p=fs&cid=1&sig=3372edb5a17e2cf306fc2eaf9e196f7f938efc62ab229a5e4978ed5005790325&v=0" alt="Developer Workspace" width="100%" />
+  <img src=""C:\Users\Greshi\Pictures\94c1b8a5-4567-4e31-82e5-3179e52d0958.png"" />
 </p>
 ---
 
