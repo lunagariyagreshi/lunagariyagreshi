@@ -5,9 +5,6 @@
   <img src="./assets/developer-banner.png" alt="Developer Workspace" width="100%" />
 </p>
 
-
-![Uploading image.png…]()
-
 ---
 
 ## 🚀 About Me
