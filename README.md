@@ -1,6 +1,10 @@
 # Hi 👋, I'm Greshi Lunagariya
 
-### 💻 Full-Stack Developer  | .NET & ML Learner
+### 💻 Full-Stack Developer | .NET & ML Learner
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lunagariyagreshi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -59,6 +63,7 @@
 * 🤖 **Machine Learning**
 * 🏗️ **Backend Architecture & API Development**
 * 🔐 **Authentication & Role-Based Authorization**
+* 🧠 **Advanced Data Structures & Algorithms**
 
 ---
 
@@ -81,7 +86,7 @@ A full-stack project management platform designed to manage students, faculty, p
 
 **Tech Stack:** React • ASP.NET Core • C# • Entity Framework Core • SQL Server
 
-**Key Areas:**
+**Key Features:**
 
 * 👥 User & Role Management
 * 🎓 Student & Faculty Management
@@ -111,11 +116,23 @@ A healthcare-oriented application for managing outpatient department operations.
 
 ---
 
-## 🧠 DSA & Problem Solving
+## ## 🧠 DSA & Problem Solving
 
-I consistently solve Data Structures and Algorithm problems to enhance my analytical thinking and coding proficiency. My focus is on recognizing patterns and applying optimal approaches to different problem types.
+Preparing for **technical interviews and coding assessments** by strengthening problem-solving skills and understanding core DSA concepts.
 
-💡 Goal: To develop strong problem-solving ability and write clean, efficient solutions under time constraints.
+### 🎯 Interview Preparation
+
+* 🧩 Focus on **patterns and approaches** rather than memorizing solutions
+* ⏱️ Analyze **Time & Space Complexity** for every solution
+* 🔍 Practice choosing the **right data structure and algorithm**
+* 💡 Improve ability to explain **approach, logic, and trade-offs**
+* ⚡ Work on writing **optimized and clean code**
+* 🐛 Practice identifying and fixing edge cases and bugs
+* 🗣️ Improve explaining solutions clearly during technical interviews
+
+### 🚀 Goal
+
+> **Solve problems efficiently, explain the approach clearly, and write production-quality code under interview conditions.**
 
 ---
 
@@ -138,8 +155,16 @@ As a Teaching Assistant, I help students understand programming and web developm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lunagariyagreshi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunagariyagreshi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lunagariyagreshi&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Greshi's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunagariyagreshi&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Greshi's Top Languages"
+  />
 </p>
 
 ---
@@ -147,15 +172,23 @@ As a Teaching Assistant, I help students understand programming and web developm
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lunagariyagreshi&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=lunagariyagreshi&theme=tokyonight&hide_border=true"
+    alt="Greshi's GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🐍 My Contributions
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lunagariyagreshi/lunagariyagreshi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <a href="https://github.com/lunagariyagreshi">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=lunagariyagreshi&theme=tokyo-night&hide_border=true"
+      alt="Greshi's GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ---
@@ -164,10 +197,16 @@ As a Teaching Assistant, I help students understand programming and web developm
 
 <p align="center">
   <a href="https://github.com/lunagariyagreshi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/greshi-lunagariya-27416033a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/greshi-lunagariya-27416033a/)">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
@@ -186,29 +225,29 @@ As a Teaching Assistant, I help students understand programming and web developm
 
 ## ⚡ Fun Fact
 
-> **I enjoy turning ideas into real-world applications and breaking down difficult coding problems until they become simple.** 😄
+> 💡 I enjoy solving coding problems and turning ideas into real-world projects.
 
 ---
 
 ## 📈 My Development Journey
 
 ```text
-C / C++
-   ↓
+C
+ ↓
 Java & OOP
-   ↓
+ ↓
 HTML • CSS • JavaScript
-   ↓
+ ↓
 React
-   ↓
+ ↓
 Node.js • Express.js
-   ↓
+ ↓
 SQL & Databases
-   ↓
+ ↓
 ASP.NET Core • C# • EF Core
-   ↓
+ ↓
 Backend Architecture
-   ↓
+ ↓
 Machine Learning 🚀
 ```
 
